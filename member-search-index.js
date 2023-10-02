@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"StatsComparator","l":"compare(Pair, Pair)","u":"compare(Pair,Pair)"},{"p":"<Unnamed>","c":"StatsComparator","l":"StatsComparator()","u":"%3Cinit%3E()"}];updateSearchResults();

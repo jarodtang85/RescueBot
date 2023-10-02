@@ -1,0 +1,141 @@
+judgeType human
+locationSaved 1
+Scenario flood
+Location 1 150.9094 W 13.7154 N
+status trespassing
+human overweight 16 female
+animal cat pet
+animal koala
+human athletic 7 male
+human average 17 student male
+--
+Location 2 122.8133 W 15.3983 N
+status legal
+human athletic 52 doctor male
+animal koala
+======================================
+judgeType human
+locationSaved 2
+Scenario bushfire
+Location 1 158.8239 E 17.5548 S
+status legal
+human athletic 71 male
+animal wallaby
+human overweight 37 professor male
+human average 41 doctor female
+--
+Location 2 161.7064 E 17.6069 S
+status trespassing
+human average 34 criminal female
+human athletic 59 professor male
+human overweight 28 ceo female pregnant
+======================================
+judgeType human
+locationSaved 1
+Scenario cyclone
+Location 1 69.283 E 42.6598 S
+status legal
+human athletic 61 homeless male
+animal wallaby
+human overweight 35 ceo male
+--
+Location 2 68.3571 E 42.7966 S
+status legal
+human average 67 ceo male
+human athletic 14 female
+human athletic 34 homeless male
+======================================
+judgeType robot
+locationSaved 0
+Scenario flood
+Location 1 150.9094 W 13.7154 N
+status trespassing
+human overweight 16 female
+animal cat pet
+animal koala
+human athletic 7 male
+human average 17 student male
+--
+Location 2 122.8133 W 15.3983 N
+status legal
+human athletic 52 doctor male
+animal koala
+======================================
+judgeType robot
+locationSaved 1
+Scenario bushfire
+Location 1 158.8239 E 17.5548 S
+status legal
+human athletic 71 male
+animal wallaby
+human overweight 37 professor male
+human average 41 doctor female
+--
+Location 2 161.7064 E 17.6069 S
+status trespassing
+human average 34 criminal female
+human athletic 59 professor male
+human overweight 28 ceo female pregnant
+======================================
+judgeType robot
+locationSaved 1
+Scenario cyclone
+Location 1 69.283 E 42.6598 S
+status legal
+human athletic 61 homeless male
+animal wallaby
+human overweight 35 ceo male
+--
+Location 2 68.3571 E 42.7966 S
+status legal
+human average 67 ceo male
+human athletic 14 female
+human athletic 34 homeless male
+======================================
+judgeType human
+locationSaved 1
+Scenario flood
+Location 1 150.9094 W 13.7154 N
+status trespassing
+human overweight 16 female
+animal cat pet
+animal koala
+human athletic 7 male
+human average 17 student male
+--
+Location 2 122.8133 W 15.3983 N
+status legal
+human athletic 52 doctor male
+animal koala
+======================================
+judgeType human
+locationSaved 2
+Scenario bushfire
+Location 1 158.8239 E 17.5548 S
+status legal
+human athletic 71 male
+animal wallaby
+human overweight 37 professor male
+human average 41 doctor female
+--
+Location 2 161.7064 E 17.6069 S
+status trespassing
+human average 34 criminal female
+human athletic 59 professor male
+human overweight 28 ceo female pregnant
+======================================
+judgeType human
+locationSaved 1
+Scenario cyclone
+Location 1 69.283 E 42.6598 S
+status legal
+human athletic 61 homeless male
+animal wallaby
+human overweight 35 ceo male
+--
+Location 2 68.3571 E 42.7966 S
+status legal
+human average 67 ceo male
+human athletic 14 female
+human athletic 34 homeless male
+======================================
